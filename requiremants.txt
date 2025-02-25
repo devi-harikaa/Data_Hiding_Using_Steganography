@@ -1,6 +1,0 @@
-stegano
-pillow
-opencv-python
-crayons
-piexif
-numpy
