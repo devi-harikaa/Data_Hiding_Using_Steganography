@@ -1,7 +1,3 @@
-Here's a well-structured **README.md** file for your GitHub repository:  
-
----
-
 # **🔹 Image Steganography – Hide Secret Messages in Images**  
 
 ## 📌 **Overview**  
@@ -79,7 +75,6 @@ from stegano import lsb
 
 revealed_message = lsb.reveal("stego_image.png")
 print("🔓 Hidden Message:", revealed_message)
-```
 
 ---
 
@@ -98,13 +93,5 @@ print("🔓 Hidden Message:", revealed_message)
 
 ---
 
----
-
 ## 📎 **GitHub Repository**  
-👉 **[Steganography-Image-Hiding](https://github.com/YourUsername/Steganography-Image-Hiding)** *(Replace with your actual GitHub link)*  
-
-💡 **Enjoy exploring Steganography! Secure your messages with hidden images.** 🛡️🚀  
-
----
-
-This README provides a professional, structured, and informative overview of your project. 🚀 Let me know if you need further modifications! 😊
+👉 **[https://github.com/devi-harikaa/Data_Hiding_Using_Steganography.git)**
