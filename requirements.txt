@@ -4,3 +4,4 @@ opencv-python
 crayons
 piexif
 numpy
+webbrowser
